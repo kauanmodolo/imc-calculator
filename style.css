@@ -87,7 +87,7 @@ button{
    }
   .container{
    width: 40vh;
-   height: 50vh;
+   height: 60vh;
   }
 .title{
    
@@ -111,6 +111,7 @@ button{
    width: 30vh;
    height: 7vh;
    margin-top: 1vh;
+   font: bold 0.7rem serif;
 
 }
 .result{
