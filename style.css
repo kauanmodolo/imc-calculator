@@ -79,3 +79,44 @@ button{
    box-sizing: border-box;
    user-select: none;
   }
+
+@media only screen and (min-width: 0px) and (max-width: 600px){
+   main{
+      width: 30vh;
+      height: 30vh;
+   }
+  .container{
+   width: 40vh;
+   height: 50vh;
+  }
+.title{
+   
+   font: bold 3vh serif;
+}
+
+.input input {
+  
+  
+  height: 4vh;
+   font: bold 1rem serif;
+}
+
+.input{
+   width: 40vh;
+   
+   
+}
+.input label {
+   font: bold 1.5vh serif;
+  }
+
+  button{
+   width: 30vh;
+   height: 7vh;
+   margin-top: 1vh;
+
+}
+.result{
+   width: 30vh;
+   height: 20vh;}
+}
